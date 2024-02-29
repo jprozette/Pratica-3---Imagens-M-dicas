@@ -1,2 +1,3 @@
-# Pratica 3 Fundamentos de Informática em Imagens Médicas
-Atividade Prática 3 - Grupo 1 
+# Fundamentos de Informática em Imagens Médicas
+## Classificação de fraturas vertebrais por compressão como benignas ou malignas em imagens de exames de ressonância magnética da coluna vertebral.
+
